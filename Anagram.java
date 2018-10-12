@@ -8,6 +8,8 @@ public class Anagram {
 	 *
 	 * @return true, if both String are anagram
 	 */
+	 
+	 //Joel Francis
 	public static boolean isAnagram(String word, String anagram){       
 		if(word.length() != anagram.length()){
 			return false;
